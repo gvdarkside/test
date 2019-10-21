@@ -2,6 +2,7 @@
   "name": "test",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://gvdarkside.github.io/test/build",
   "dependencies": {
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
